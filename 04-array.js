@@ -1,4 +1,5 @@
 /* Array: é uma variável que permite guardar uma lista de valores. Exemplo: lista de alunos.
+
 A posição de um elemento na lista é chamada de índice. Os índices são contados começando em zero.
 
 Variáveis:

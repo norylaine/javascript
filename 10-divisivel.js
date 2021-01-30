@@ -14,3 +14,6 @@ let primeiroNumero = Number(prompt("digite um número inteiro"))
 let segundoNumero = Number(prompt("digite outro número inteiro"))
 
 verificarDivisao(primeiroNumero, segundoNumero)
+
+// `${true}` quando for uma variável como parâmetro
+
